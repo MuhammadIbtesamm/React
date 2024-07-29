@@ -1,0 +1,19 @@
+.welcome-msg {
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(2, 92, 30);
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 0;
+}
+
+.login-msg {
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(173, 32, 0);
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 0;
+}
